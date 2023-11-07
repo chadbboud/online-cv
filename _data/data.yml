@@ -84,15 +84,15 @@ experiences:
         time: May - August, 2023
         company: Cleo Robotics, Boston Seaport, MA
         details: |
-        • As an Engineering Intern at Cleo Robotics, a contribution made to the entire team was the design and 
-        implementation of an enhanced organized sub-assembly system. This system facilitated the efficient and rapid 
-        construction of drones, ultimately reducing assembly time. 
-        • This achievement was made possible by leveraging skills such as effective time management, a keen 
-        organizational perspective, proficiency in soldering, and the application of other relevant capabilities.
-        • During the time at Cleo, multiple responsibilities were assigned, including the production and implementation of 
-        various methods to refine drone assembly efficiency and the repair of damaged drones. 
-        • The outcomes achieved stemmed from the utilization of tools such as SolidWorks and 3D Printing, as well as the 
-        capacity to multitask and the acquisition of other pertinent skills necessary to accomplish the assigned tasks.
+            • As an Engineering Intern at Cleo Robotics, a contribution made to the entire team was the design and 
+            implementation of an enhanced organized sub-assembly system. This system facilitated the efficient and rapid 
+            construction of drones, ultimately reducing assembly time. 
+            • This achievement was made possible by leveraging skills such as effective time management, a keen 
+            organizational perspective, proficiency in soldering, and the application of other relevant capabilities.
+            • During the time at Cleo, multiple responsibilities were assigned, including the production and implementation of 
+            various methods to refine drone assembly efficiency and the repair of damaged drones. 
+            • The outcomes achieved stemmed from the utilization of tools such as SolidWorks and 3D Printing, as well as the 
+            capacity to multitask and the acquisition of other pertinent skills necessary to accomplish the assigned tasks.
     
 
 #certifications:
@@ -103,16 +103,16 @@ experiences:
 projects:
     title: Phase Difference
     intro: >
-    Developed MATLAB code to successfully identify points on each waveform with the ability to perform 
-    calculations to determine the phase difference between two waveforms with a 95% accuracy.
-    Constructed a circuit and exported CSV file measurements taken with the Analog Discovery into MATLAB
+        Developed MATLAB code to successfully identify points on each waveform with the ability to perform 
+        calculations to determine the phase difference between two waveforms with a 95% accuracy.
+        Constructed a circuit and exported CSV file measurements taken with the Analog Discovery into MATLAB
 
     title: Water Detector
     intro: >
-    Designed a water detector system that detects water on a flat surface and numerous depths using LED’s and 
-    probes, applied an audible alarm that would sound when a critically set depth was reached (could be changed 
-    based on user preference)
-    Tested the design and corrected errors by researching for more useful components to be added into the circuit.
+        Designed a water detector system that detects water on a flat surface and numerous depths using LED’s and 
+        probes, applied an audible alarm that would sound when a critically set depth was reached (could be changed 
+        based on user preference)
+        Tested the design and corrected errors by researching for more useful components to be added into the circuit.
 
 
     
