@@ -107,14 +107,6 @@ projects:
         calculations to determine the phase difference between two waveforms with a 95% accuracy.
         Constructed a circuit and exported CSV file measurements taken with the Analog Discovery into MATLAB
         
-projects:
-    title: Water Detector
-    intro: >
-        Designed a water detector system that detects water on a flat surface and numerous depths using LED’s and 
-        probes, applied an audible alarm that would sound when a critically set depth was reached (could be changed 
-        based on user preference)
-        Tested the design and corrected errors by researching for more useful components to be added into the circuit.
-
 
     
     #assignments:
